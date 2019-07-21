@@ -1,0 +1,30 @@
+html { 
+  background: url(https://capturetheatlas.com/wp-content/uploads/2018/11/KOR_1626-Edit-3.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+h1 {
+	color: white;
+	font-family: helvetica;
+	border: 3px white;
+	padding: 70px;
+	text-align: center;
+}
+
+
+.column {
+  float: left;
+  margin:5px;
+  width: 31%;
+  background-color: lightgray;
+  padding: 10px;
+  font-family:sans-serif;
+
+}
+
+h3{
+	padding: 70px
+}
